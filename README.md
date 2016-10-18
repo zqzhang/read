@@ -32,3 +32,5 @@
   [实现](https://github.com/nodejs/node/blob/master/lib/child_process.js)。
 * 12：java.io.File：
   [文档](http://docs.oracle.com/javase/8/docs/api/java/io/File.html)
+* 18：java.lang.Thread：
+  [文档](http://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html)
