@@ -23,6 +23,13 @@
 
 这个项目就是要记录这个默读的过程、内容和感悟。
 
+## 2016年11月
+
+* 07：[android.webkit.WebView](https://developer.android.com/reference/android/webkit/WebView.html)，
+  [Building Web Apps in WebView](https://developer.android.com/guide/webapps/webview.html)，
+  顺便拜读了[Web Apps](https://developer.android.com/guide/webapps/index.html)。
+  对Android Web Applications整体有所了解，对Android webkit CTS的测试用例也清楚些。
+
 ## 2016年10月
 
 * 08：Java Process.java，
